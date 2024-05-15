@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Hey there! **
+
+I'm Santosh Kumar Sah,
+
+ a data science enthusiast currently working as an AI Engineer at PixelVirt Technology. I'm passionate about exploring the potential of data and using it to solve real-world problems.
+
+Here's a glimpse into my world:
+
+    Technical Skills: Python, R, SQL, Machine Learning Libraries (Scikit-learn, TensorFlow, PyTorch, etc.)
+    Areas of Interest: Natural Language Processing, Computer Vision, Deep Learning
+    Always Learning: Constantly expanding my knowledge base through online courses, hackathons, and personal projects.
